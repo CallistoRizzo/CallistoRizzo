@@ -61,4 +61,4 @@ As a Service Desk Technician with a growing passion for cybersecurity, I am acti
 ## Projects
 - <a href="https://github.com/CallistoRizzo/System-Configuration/tree/main">System Configuration</a>
 - <a href="https://github.com/CallistoRizzo/AI-Virtual-Assistant/tree/main">AI Virtual Assistant</a>
--  <a href="https://github.com/CallsitoRizzo/Cloud-Infrastructure/tree/main">Cloud Infrastructure</a>
+-  <a href="https://github.com/CallistoRizzo/Cloud-Infrastructure/tree/main">Cloud Infrastructure</a>

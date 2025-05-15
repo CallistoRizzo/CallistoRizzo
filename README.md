@@ -11,12 +11,12 @@ As a Service Desk Technician with a growing passion for cybersecurity, I am acti
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Multi-Printer Management System          | <a href="https://github.com/Isto092/System-Configuration/tree/main">System Configuration</a>|
-| Network Optimization for IoT Devices | <a href="https://github.com/Isto092/System-Configuration/tree/main">System Configuration</a>|
-| Offline AI Deployment & Optimization         | <a href="https://github.com/Isto092/AI-Virtual-Assistant/tree/main">AI Virtual Assistant</a>|
-| Speech Recognition & Voice Interface Development     | <a href="https://github.com/Isto092/AI-Virtual-Assistant/tree/main">AI Virtual Assistant</a>|
-| Data Privacy & Local Security Implementation         | <a href="https://github.com/Isto092/AI-Virtual-Assistant/tree/main">AI Virtual Assistant</a>|
-| Cloud Infrastructure Design & Security |  <a href="https://github.com/Isto092/Cloud-Infrastructure/tree/main">Cloud Infrastructure</a>|
+| Multi-Printer Management System          | <a href="https://github.com/CallistoRizzo/System-Configuration/tree/main">System Configuration</a>|
+| Network Optimization for IoT Devices | <a href="https://github.com/CallistoRizzo/System-Configuration/tree/main">System Configuration</a>|
+| Offline AI Deployment & Optimization         | <a href="https://github.com/CallistoRizzo/AI-Virtual-Assistant/tree/main">AI Virtual Assistant</a>|
+| Speech Recognition & Voice Interface Development     | <a href="https://github.com/CallistoRizzo/AI-Virtual-Assistant/tree/main">AI Virtual Assistant</a>|
+| Data Privacy & Local Security Implementation         | <a href="https://github.com/CallistoRizzo/AI-Virtual-Assistant/tree/main">AI Virtual Assistant</a>|
+| Cloud Infrastructure Design & Security |  <a href="https://github.com/CallistoRizzo/Cloud-Infrastructure/tree/main">Cloud Infrastructure</a>|
 
 ## Tools
 
@@ -59,6 +59,6 @@ As a Service Desk Technician with a growing passion for cybersecurity, I am acti
 </div>
 
 ## Projects
-- <a href="https://github.com/Isto092/System-Configuration/tree/main">System Configuration</a>
-- <a href="https://github.com/Isto092/AI-Virtual-Assistant/tree/main">AI Virtual Assistant</a>
--  <a href="https://github.com/Isto092/Cloud-Infrastructure/tree/main">Cloud Infrastructure</a>
+- <a href="https://github.com/CallistoRizzo/System-Configuration/tree/main">System Configuration</a>
+- <a href="https://github.com/CallistoRizzo/AI-Virtual-Assistant/tree/main">AI Virtual Assistant</a>
+-  <a href="https://github.com/CallsitoRizzo/Cloud-Infrastructure/tree/main">Cloud Infrastructure</a>

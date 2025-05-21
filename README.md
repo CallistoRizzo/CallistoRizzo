@@ -47,7 +47,6 @@ As a Service Desk Technician with a growing passion for cybersecurity, I am acti
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Chronicle-000000?&style=for-the-badge&logo=chronicle&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bitdefender-EF3F3F?&style=for-the-badge&logo=Bitdefender&logoColor=white" />
 </div>
 
 ## Certifications

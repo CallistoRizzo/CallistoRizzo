@@ -46,7 +46,6 @@ As a Service Desk Technician with a growing passion for cybersecurity, I am acti
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Chronicle-000000?&style=for-the-badge&logo=chronicle&logoColor=white" />
 </div>
 
 ## Certifications
@@ -54,7 +53,6 @@ As a Service Desk Technician with a growing passion for cybersecurity, I am acti
 <div>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CIPP%2FUS-007ACC?&style=for-the-badge&logo=IAPP&logoColor=white" />
 
 
 </div>

@@ -46,7 +46,8 @@ TBA
 
 <div>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-AZ900-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-MD--102-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ## Projects

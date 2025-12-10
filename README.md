@@ -46,9 +46,6 @@ TBA
 
 <div>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<imgs://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white  />
-<img src="https://img.shields.io/badge/-MD--102-0078D4?style=for-the-badge&logo&logoColor=white  /> 
-
 </div>
 
 ## Projects

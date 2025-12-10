@@ -46,6 +46,7 @@ TBA
 
 <div>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+![AZ-900 Certified](https://img.shields.io/badge/Microsoft_AZ--900-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)
 </div>
 
 ## Projects

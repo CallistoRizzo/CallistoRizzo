@@ -1,11 +1,11 @@
 # Hello, I'm Callisto
 <a href="https://www.linkedin.com/in/callisto-rizzo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a results-driven IT Specialist with a strong record of delivering technical support and innovative system solutions. Skilled in troubleshooting complex issues, optimizing workflows, and strengthening cybersecurity protocols. Adept at supporting dynamic IT environments and committed to delivering excellence through hands-on problem solving and collaboration. 
+IT Specialist with strong technical support experience and emerging leadership skills. Known for being reliable, steady and the person teammates go to for help. Experienced in guiding peers, improving workflows and supporting team operations during high-volume periods. Ready to step into a team lead role that requires consistency, accountability, communication and hands-on support. 
 
 ## Objective
 
-As a Service Desk Technician with a growing passion for cybersecurity, I am actively building my technical knowledge and hands-on experience to transition into the field as a Cybersecurity Analyst. My long-term goal is to grow into an Identity and Access Management (IAM) role and continue advancing into more senior positions within cybersecurity, where I can contribute to protecting systems and data through proactive defense and access control strategies.
+TBA
 
 ## Skills
 
@@ -41,11 +41,6 @@ As a Service Desk Technician with a growing passion for cybersecurity, I am acti
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D7?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure%20Entra%20ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Freshservice-0ABDE3?&style=for-the-badge&logo=freshworks&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Certifications

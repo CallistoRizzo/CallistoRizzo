@@ -5,7 +5,7 @@ IT Specialist with strong technical support experience and emerging leadership s
 
 ## Objective
 
-TBA
+Focused on moving into an Endpoint Administrator role where I can manage devices, strengthen security configurations, streamline deployment processes, and support a modern, scalable endpoint environment. Looking to apply my troubleshooting background and workflow improvement skills to maintain stable systems, drive consistency, and keep users running without disruption.
 
 ## Skills
 

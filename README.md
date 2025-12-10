@@ -39,6 +39,7 @@ TBA
     <img src="https://img.shields.io/badge/-Microsoft%20365-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D7?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure%20Entra%20ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Intune-0078D4?&style=for-the-badge&logo=microsoftintune&logoColor=white" />
     <img src="https://img.shields.io/badge/-Freshservice-0ABDE3?&style=for-the-badge&logo=freshworks&logoColor=white" />
 </div>
 

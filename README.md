@@ -30,7 +30,6 @@ TBA
 ### Virtualization
 <div>
     <img src="https://img.shields.io/badge/-Hyper--V-0078D7?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Citrix-00ADEF?&style=for-the-badge&logo=citrix&logoColor=white" />
 </div>
@@ -47,8 +46,8 @@ TBA
 
 <div>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+<imgs://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white  />
+<img src="https://img.shields.io/badge/-MD--102-0078D4?style=for-the-badge&logo&logoColor=white  /> 
 
 </div>
 

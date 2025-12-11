@@ -1,7 +1,7 @@
 # Hello, I'm Callisto
 <a href="https://www.linkedin.com/in/callisto-rizzo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT Specialist with strong technical support experience and emerging leadership skills. Known for being reliable, steady and the person teammates go to for help. Experienced in guiding peers, improving workflows and supporting team operations during high-volume periods. Ready to step into a team lead role that requires consistency, accountability, communication and hands-on support. 
+IT Specialist with strong technical support experience and hands-on experience guiding technicians.  Known for having reliable ticket quality, steady workflow and keeping operations steady during high-volume periods. Experienced in guiding peers, decisive troubleshooting, clear communication, and maintaining SLA discipline across the board. Ready to step into a team lead role that requires consistency, accountability, communication and hands-on support. 
 
 ## Objective
 
